@@ -44,16 +44,9 @@ This is a console-based visual effect demonstration, not a GUI application.
 
 License
 This project is released under the MIT License. You are free to use, modify, and distribute it.
+![typewriter_demo](https://github.com/user-attachments/assets/1a8cc2fd-2c53-44d7-8104-3860f9ecc077)
 
----
 
-If you want, I can now also **add a small preview GIF** of the typing effect, which will make your repo look *10× more appealing*.
 
-Just tell me:
 
-**Do you want the animation preview as:**
-1. Terminal screen capture (clean & minimal), or  
-2. Styled demo card (looks polished for portfolio)
-
-Reply: **1** or **2**.
 
